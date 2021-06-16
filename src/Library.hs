@@ -11,3 +11,5 @@ triple numero = numero + numero + numero
 -- chau
 
 --que tal
+
+-- prueba con terminal 
