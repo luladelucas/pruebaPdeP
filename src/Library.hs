@@ -9,3 +9,5 @@ triple numero = numero + numero + numero
 
 -- hola hola hola
 -- chau
+
+--que tal
